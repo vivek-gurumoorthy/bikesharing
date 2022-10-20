@@ -12,10 +12,12 @@ From this visual, it does not appear that any gender rides the Citibikes for a c
 
 ### Trips by Day of Week and Hour
 <img width="1012" alt="Screen Shot 2022-10-20 at 9 46 18 AM" src="https://user-images.githubusercontent.com/108832056/196966042-77bd8679-89ce-460f-80ec-29d085f12f64.png">
+Generally, it appears most Citibike usage occurs in the early morning or late afternoon on weekdays, while on weekends it can be spread more evenly throughout the day.
 
 | Male Riders  | Female Riders | Riders of Unknown Gender |
 | ------------- | ------------- | ------------- |
 |<img width="491" alt="Screen Shot 2022-10-20 at 9 49 34 AM" src="https://user-images.githubusercontent.com/108832056/196966915-ce44b320-1aa7-4362-aafa-24c68763e2dc.png">| <img width="506" alt="Screen Shot 2022-10-20 at 9 47 47 AM" src="https://user-images.githubusercontent.com/108832056/196966413-81f4407d-4387-4d6f-a100-962a2a894467.png">| <img width="511" alt="Screen Shot 2022-10-20 at 9 50 34 AM" src="https://user-images.githubusercontent.com/108832056/196967200-cf962bbd-9a28-49fd-83b3-c1374b8a1ae1.png">
+This heatmap overall shows similar results as the previous heatmap when it comes to male and female customers, as evidenced by peaks in early morning and late afternoon. During the weekend, it appears that the Citibike records a disproportionate number of riders of unknown gender, perhaps due to influx of riders who are just temporarily visiting the city over that weekend.
 
 ### User Trips by Gender by Weekday
 <img width="1001" alt="Screen Shot 2022-10-20 at 9 54 14 AM" src="https://user-images.githubusercontent.com/108832056/196968166-00e1f4cb-2f5c-49c7-a2b1-62302a3dca57.png">
