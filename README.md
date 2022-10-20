@@ -22,6 +22,10 @@
 | ------------- | ------------- |
 | <img width="1005" alt="Screen Shot 2022-10-20 at 9 55 21 AM" src="https://user-images.githubusercontent.com/108832056/196968482-a000b057-dc21-4514-a71e-13236e88c85d.png"> | <img width="821" alt="Screen Shot 2022-10-20 at 9 55 55 AM" src="https://user-images.githubusercontent.com/108832056/196968634-b7e65857-e7c3-49ee-be06-6d7dd35a42b4.png">
 
+### Bike Utilization
+<img width="988" alt="Screen Shot 2022-10-20 at 9 57 46 AM" src="https://user-images.githubusercontent.com/108832056/196969061-4038cfe6-1ab3-4133-a702-0749f9c29681.png">
+
+
 
 ## Summary
 
