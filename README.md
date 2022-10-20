@@ -6,7 +6,9 @@ The purpose of this analysis is to visualize a variety of metrics concerning the
 ## Results
 ### Trip Duration
 <img width="972" alt="Screen Shot 2022-10-20 at 9 45 45 AM" src="https://user-images.githubusercontent.com/108832056/196965903-5ec22268-d3a9-403f-9f57-a19722639f20.png">
+This demonstrates the typical duration of most recorded bikerides. Clearly, almost all of the bikerides are less than 1 hour in duration. Most rides are less than 20 minutes length as shown by the drastic peak that occurs before the 20 minute trip duration mark.
 <img width="979" alt="Screen Shot 2022-10-20 at 9 46 04 AM" src="https://user-images.githubusercontent.com/108832056/196965987-60ba5925-3cef-4818-bd38-61b7d1267838.png">
+From this visual, it does not appear that any gender rides the Citibikes for a clearly longer or shorter time. All three lines, male, female, and unknown gender, exhibit a peak similar to that of the peak indicated by the combined graph mentioned previously. Male users seem to make up the largest proportion of all rides, however, when compared to female users and those of unknown gender. 
 
 ### Trips by Day of Week and Hour
 <img width="1012" alt="Screen Shot 2022-10-20 at 9 46 18 AM" src="https://user-images.githubusercontent.com/108832056/196966042-77bd8679-89ce-460f-80ec-29d085f12f64.png">
