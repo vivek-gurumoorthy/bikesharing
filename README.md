@@ -3,10 +3,11 @@
 ## Overview of the Analysis
 
 ## Results
+### Trip Duration
 <img width="972" alt="Screen Shot 2022-10-20 at 9 45 45 AM" src="https://user-images.githubusercontent.com/108832056/196965903-5ec22268-d3a9-403f-9f57-a19722639f20.png">
-
 <img width="979" alt="Screen Shot 2022-10-20 at 9 46 04 AM" src="https://user-images.githubusercontent.com/108832056/196965987-60ba5925-3cef-4818-bd38-61b7d1267838.png">
 
+### Trips by Day of Week and Hour
 <img width="1012" alt="Screen Shot 2022-10-20 at 9 46 18 AM" src="https://user-images.githubusercontent.com/108832056/196966042-77bd8679-89ce-460f-80ec-29d085f12f64.png">
 
 | Male Riders  | Female Riders | Riders of Unknown Gender |
