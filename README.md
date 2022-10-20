@@ -31,6 +31,7 @@ Clearly, there are many more rides recorded by subscribers than by non-subscribe
 | Top Starting Locations  | Top Finishing Locations|
 | ------------- | ------------- |
 | <img width="1005" alt="Screen Shot 2022-10-20 at 9 55 21 AM" src="https://user-images.githubusercontent.com/108832056/196968482-a000b057-dc21-4514-a71e-13236e88c85d.png"> | <img width="821" alt="Screen Shot 2022-10-20 at 9 55 55 AM" src="https://user-images.githubusercontent.com/108832056/196968634-b7e65857-e7c3-49ee-be06-6d7dd35a42b4.png">
+This demonstrates where riders typically most commonly start and end their rides. In this visual it is clear that the most commmon starting places and the most common finishing places are generally in the same area. This area could perhaps be a space of more dense population. Knowing the most common location where riders typically start and end may enable Citibike to devote more of its resources to these particular areas for bike maintenance.
 
 ### Bike Utilization
 <img width="988" alt="Screen Shot 2022-10-20 at 9 57 46 AM" src="https://user-images.githubusercontent.com/108832056/196969061-4038cfe6-1ab3-4133-a702-0749f9c29681.png">
