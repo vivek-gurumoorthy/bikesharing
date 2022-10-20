@@ -45,4 +45,5 @@ Two additional ideas visuals that could be useful:
 * Differentiating usage over years by looking at the other years of citibike data and joining into one larger dataset
 * Pulling NYC weather data for 2019 and visualizing whether recorded inclement weather is associated with drops in citibike usage
 
-[###Link to Tableau Story](https://public.tableau.com/app/profile/vivek.gurumoorthy7572/viz/CitibikeChallenge_16662350696630/Story1?publish=yes)
+## Want to See My Dashboard?
+[Link to Tableau Story](https://public.tableau.com/app/profile/vivek.gurumoorthy7572/viz/CitibikeChallenge_16662350696630/Story1?publish=yes)
