@@ -13,7 +13,15 @@
 | Male Riders  | Female Riders | Riders of Unknown Gender |
 | ------------- | ------------- | ------------- |
 | <img width="506" alt="Screen Shot 2022-10-20 at 9 47 47 AM" src="https://user-images.githubusercontent.com/108832056/196966413-81f4407d-4387-4d6f-a100-962a2a894467.png">|<img width="491" alt="Screen Shot 2022-10-20 at 9 49 34 AM" src="https://user-images.githubusercontent.com/108832056/196966915-ce44b320-1aa7-4362-aafa-24c68763e2dc.png">| <img width="511" alt="Screen Shot 2022-10-20 at 9 50 34 AM" src="https://user-images.githubusercontent.com/108832056/196967200-cf962bbd-9a28-49fd-83b3-c1374b8a1ae1.png">
-  
+
+### User Trips by Gender by Weekday
+<img width="1001" alt="Screen Shot 2022-10-20 at 9 54 14 AM" src="https://user-images.githubusercontent.com/108832056/196968166-00e1f4cb-2f5c-49c7-a2b1-62302a3dca57.png">
+
+### Top Starting and Finishing Locations
+| Top Starting Locations  | Top Finishing Locations|
+| ------------- | ------------- |
+| <img width="1005" alt="Screen Shot 2022-10-20 at 9 55 21 AM" src="https://user-images.githubusercontent.com/108832056/196968482-a000b057-dc21-4514-a71e-13236e88c85d.png"> | <img width="821" alt="Screen Shot 2022-10-20 at 9 55 55 AM" src="https://user-images.githubusercontent.com/108832056/196968634-b7e65857-e7c3-49ee-be06-6d7dd35a42b4.png">
+
 
 ## Summary
 
