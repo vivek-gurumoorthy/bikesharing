@@ -9,7 +9,10 @@
 
 <img width="1012" alt="Screen Shot 2022-10-20 at 9 46 18 AM" src="https://user-images.githubusercontent.com/108832056/196966042-77bd8679-89ce-460f-80ec-29d085f12f64.png">
 
-
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 
 ## Summary
 
