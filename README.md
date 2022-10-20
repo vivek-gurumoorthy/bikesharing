@@ -11,9 +11,7 @@
 
 | First Header  | Second Header | Second Header |
 | ------------- | ------------- | ------------- |
-| <img width="506" alt="Screen Shot 2022-10-20 at 9 47 47 AM" src="https://user-images.githubusercontent.com/108832056/196966413-81f4407d-4387-4d6f-a100-962a2a894467.png">
-  |<img width="491" alt="Screen Shot 2022-10-20 at 9 49 34 AM" src="https://user-images.githubusercontent.com/108832056/196966915-ce44b320-1aa7-4362-aafa-24c68763e2dc.png">
-| Content Cell  |
+| <img width="506" alt="Screen Shot 2022-10-20 at 9 47 47 AM" src="https://user-images.githubusercontent.com/108832056/196966413-81f4407d-4387-4d6f-a100-962a2a894467.png">|<img width="491" alt="Screen Shot 2022-10-20 at 9 49 34 AM" src="https://user-images.githubusercontent.com/108832056/196966915-ce44b320-1aa7-4362-aafa-24c68763e2dc.png">| Content Cell  |
 
 ## Summary
 
