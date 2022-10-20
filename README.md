@@ -1,6 +1,7 @@
 # Bikesharing with Citibike
 
 ## Overview of the Analysis
+The purpose of this analysis is to visualize a variety of metrics concerning the use of the Citibike bikesharing system and in turn inform the strategy of a new venture to implement a new bikesharing system in Des Moines, Iowa.
 
 ## Results
 ### Trip Duration
