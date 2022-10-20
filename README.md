@@ -39,5 +39,10 @@ This demonstrates where riders typically most commonly start and end their rides
 This visual demonstrates which bikes have had the most use over their time. Use is measured in both number of rides given as well as amount of time spent by users riding that particular bike. This visual would be very useful for identifying the bikes that are needed for repair/maintenance due to wear and tear. These bikes would be the dots on the graph that are larger and more red in color.
 
 ## Summary
+Overall, some takeaways from the NYC Citibike data would be that rides typically last 5-15 minutes, male riders are the most common users of citybikes, usage peaks in the early morning and late afternoon on weekdays and is spread throughout the day on weekends, and that the common locations of the starting and ending points of rides occur in the same general area.
+
+Two additional ideas visuals that could be useful:
+* Differentiating usage over years by looking at the other years of citibike data and joining into one larger dataset
+* Pulling NYC weather data for 2019 and visualizing whether recorded inclement weather is associated with drops in citibike usage
 
 [Link to Tableau Story](https://public.tableau.com/app/profile/vivek.gurumoorthy7572/viz/CitibikeChallenge_16662350696630/Story1?publish=yes)
