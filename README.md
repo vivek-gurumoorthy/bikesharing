@@ -36,8 +36,7 @@ This demonstrates where riders typically most commonly start and end their rides
 
 ### Bike Utilization
 <img width="988" alt="Screen Shot 2022-10-20 at 9 57 46 AM" src="https://user-images.githubusercontent.com/108832056/196969061-4038cfe6-1ab3-4133-a702-0749f9c29681.png">
-
-
+This visual demonstrates which bikes have had the most use over their time. Use is measured in both number of rides given as well as amount of time spent by users riding that particular bike. This visual would be very useful for identifying the bikes that are needed for repair/maintenance due to wear and tear. These bikes would be the dots on the graph that are larger and more red in color.
 
 ## Summary
 
