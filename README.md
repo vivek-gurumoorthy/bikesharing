@@ -25,6 +25,7 @@ This heatmap overall shows similar results as the previous heatmap when it comes
 
 ### User Trips by Gender by Weekday
 <img width="1001" alt="Screen Shot 2022-10-20 at 9 54 14 AM" src="https://user-images.githubusercontent.com/108832056/196968166-00e1f4cb-2f5c-49c7-a2b1-62302a3dca57.png">
+Clearly, there are many more rides recorded by subscribers than by non-subscribers. And, given the fact that male riders comprise the majority of trips, male subscribers are the most common users of citybikes followed by female subscribers.
 
 ### Top Starting and Finishing Locations
 | Top Starting Locations  | Top Finishing Locations|
